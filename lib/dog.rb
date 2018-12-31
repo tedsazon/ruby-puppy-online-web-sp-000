@@ -11,5 +11,5 @@ class Dog
   def self.all
     @@all.map {|x| x.name }
   end
-  
+
 end
